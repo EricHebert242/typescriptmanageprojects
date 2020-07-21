@@ -1,7 +1,7 @@
 {
-  "name": "understanding-typescript",
+  "name": "manageprojects",
   "version": "1.0.0",
-  "description": "Understanding TypeScript Course Setup",
+  "description": "Small Typescript project management example",
   "main": "app.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
@@ -9,8 +9,7 @@
     "build": "webpack --config webpack.config.prod.js"
   },
   "keywords": [
-    "typescript",
-    "course"
+    "typescript"
   ],
   "author": "Eric Hebert",
   "license": "ISC",
